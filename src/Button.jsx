@@ -1,10 +1,10 @@
+import styles from './Button/Button.module.css'
+
 function Button() {
 
   return (
     <>
-        <button className="Button">
-            Click me
-        </button>
+        <button className={styles.Button}>Click me</button>
     </>
   )
 }

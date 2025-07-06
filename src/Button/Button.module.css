@@ -1,7 +1,7 @@
-/* external css */
+/* module css */
 
 
-/* body{
+body{
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -23,4 +23,4 @@
 .Button:hover{
     transition: 0.2s ease-in-out;
     box-shadow: 0px 0px 0px 0px; 
-} */
+}
